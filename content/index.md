@@ -11,10 +11,10 @@ It is running on Debian 11 Bullseye, 4096MB of RAM, 2 CPU cores and 1Gb networki
 I provide these instances for not just personal use & learning system administration, but for the general public to protect anyone's privacy if they don't want it invaded by proprietary services.
 
 Here is a list of what I host:
-- [Libreddit](https://lr.odyssey346.dev) (alternative domains: https://libreddit.odyssey346.dev, https://reddit.odyssey346.dev)
+- [Libreddit](https://lr.odyssey346.dev) (alternative domains: https://libreddit.odyssey346.dev)
 - [Invidious](https://inv.odyssey346.dev)
-- [ProxiTok](https://proxitok.odyssey346.dev) (alternative domains: https://tiktok.odyssey346.dev)
-- [Quetre](https://quetre.odyssey346.dev) (alternative domains: https://quora.odyssey346.dev)
+- [ProxiTok](https://proxitok.odyssey346.dev)
+- [Quetre](https://quetre.odyssey346.dev)
 
 ### Also check out:
 [Project Segfault](https://projectsegfau.lt) - like my project, but with a lot of others in it (including me). Kind of more professional
