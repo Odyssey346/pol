@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - build  # Set a branch to deploy
+      - master  # Set a branch to deploy
   pull_request:
 
 jobs:
@@ -24,9 +24,11 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Deploy to build branch
+            uses: JamesIves/github-pages-deploy-action@4.1.4
+            with:
+                branch: build # The branch the action should deploy to.
+                folder: public # The folder the action should deploy.
+                commit-message: Successfully built
+                clean: true
+                single-commit: false
