@@ -16,6 +16,8 @@ Here is a list of what I host:
 - [ProxiTok](https://proxitok.odyssey346.dev)
 - [Quetre](https://quetre.odyssey346.dev)
 
+### Privacy Policy n other stuff
+[Privacy Policy](/privacy)
 ### Also check out:
 [Project Segfault](https://projectsegfau.lt) - like my project, but with a lot of others in it (including me). Kind of more professional
 
