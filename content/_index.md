@@ -4,7 +4,7 @@ date: 2022-08-19T18:34:40+02:00
 draft: false
 ---
 
-## Where I host my instances n stuff
+## Where I host my instances n stuff™️
 This is a VPS hosted on my friend's dedi in OVH Poland.
 It is running on Debian 11 Bullseye, 4096MB of RAM, 2 CPU cores and 1Gb networking. Plenty for what I host
 
