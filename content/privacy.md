@@ -5,6 +5,8 @@ draft: false
 ---
 ## Log policy
 I do not log requests, IPs or User-Agents etc. However, if I must enable it, I will, and I'll update the privacy policy as well.
+
+Note: Invidious logs requests it gets/makes, however, it doesn't log any identifiable information. I can only see where the request goes, when it makes the request and the type of request.
 ## GDPR
 Unless you have an account on a service, or something that you believe gives me a concept of you, I don't have a concept of who you are, so you cannot request any personal data.
 

@@ -16,6 +16,7 @@ Here is a list of what I host:
 - [ProxiTok](https://proxitok.odyssey346.dev)
 - [Quetre](https://quetre.odyssey346.dev)
 - [SimplyTranslate](https://st.odyssey346.dev) (alternative domains: https://translate.odyssey346.dev)
+- [Nitter](https://ntr.odyssey346.dev) (alternative domains: https://nitter.odyssey346.dev)
 
 ### Privacy Policy n other stuff
 [Privacy Policy](/privacy)
